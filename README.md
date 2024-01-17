@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I am currently working as a researcher in the field of machine learning and data science<br>👯 I’m looking to collaborate on crazy projects<br>🤝 I’m looking for help with all my <br>🌱 I’m currently learning a lot of things<br>💬 Ask me about everything<br>⚡ Fun fact is I have a YouTube channel, and I want to create cool videos for young people who want to learn about science and engineering
-
+🔭 Currently exploring the realms of machine learning and data science as a passionate researcher<br>
+👯 Eager to join forces on innovative and out-of-the-box projects<br>
+🤝 Seeking guidance and collaboration for all my ventures<br>
+🌱 Constantly absorbing knowledge across diverse domains<br>
+💬 Feel free to reach out for any discussions<br>
+⚡ Fun fact: I run a YouTube channel, crafting engaging videos for curious minds delving into the wonders of science and engineering
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gabriel_leite_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-leite-) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@nossosaberes) 
